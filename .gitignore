@@ -2,8 +2,13 @@
 # Created by `dart pub`
 .dart_tool/
 .idea/
-.flutter-plugins/
-.flutter-plugins-dependencies/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.vscode/
+*.iml
 
 
 # Avoid committing pubspec.lock for library packages; see
