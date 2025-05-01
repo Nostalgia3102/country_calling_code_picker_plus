@@ -7,3 +7,8 @@
 
 - Readme Corrected
 - Reducing space taken by converting the images from png to webp
+
+## 1.1.0
+
+- Bug Fixes
+- Code refactor and file reorganization according to flutter convention
