@@ -59,6 +59,7 @@ app.*.map.json
 *ios/
 *web/
 pubspec.lock
+
 # Credits: 
 # https://github.com/github/gitignore
 # https://flutter.dev
