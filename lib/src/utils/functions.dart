@@ -1,7 +1,7 @@
 import 'dart:convert';
+import 'package:country_calling_code_picker_plus/country_calling_code_picker_plus.dart';
 import 'package:device_region/device_region.dart';
 import 'package:flutter/material.dart';
-import '../country_calling_code_picker_plus.dart';
 
 ///This function returns list of countries
 Future<List<Country>> getCountries(BuildContext context) async {
